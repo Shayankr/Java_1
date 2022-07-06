@@ -1,1 +1,1 @@
-# Java_NewtonSchool
+# Algorithms
